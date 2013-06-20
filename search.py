@@ -71,6 +71,9 @@ def tinyMazeSearch(problem):
 
 def depthFirstSearch(problem):
     """
+    search
+    """
+    """
     Search the deepest nodes in the search tree first
 
     Your search algorithm needs to return a list of actions that reaches
